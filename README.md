@@ -1,0 +1,3 @@
+# Egg
+Repositirio para el curso de programacion cooperativa de Egg
+Probando 1, 2, 3....
